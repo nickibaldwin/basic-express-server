@@ -1,7 +1,7 @@
 # basic-express-server
 
-Heroku: https://nickibaldwin-server-deploy-dev.herokuapp.com/
+Heroku: n/a
 
-Github actions: https://github.com/nickibaldwin/server-deployment-practice/actions
+Github actions: https://github.com/nickibaldwin/basic-express-server/actions
 
-PR: https://github.com/nickibaldwin/server-deployment-practice/pull/1
+PR: https://github.com/nickibaldwin/basic-express-server/pull/1
